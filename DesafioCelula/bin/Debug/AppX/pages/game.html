@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Desafío Célula</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- App1 references -->
+    <link href="../css/game.css" rel="stylesheet" />
+    <script src="../js/game.js"></script>
+
+</head>
+<body>
+    <div id="bodyInside">
+        <div id="left_side" class="sides">
+            <div class="logo-div">
+                <img id="imgWinVista" class="myDragContent" src="/images/app/winVista.png" draggable="true" data-win-control="WinJS.UI.ItemContainer" data-win-options="{draggable:true}" />
+            </div>
+            <div class="logo-div" style="margin-top: 20%;">
+                <img id="imgWin7" class="myDragContent" src="/images/app/win7.png" draggable="true" data-win-control="WinJS.UI.ItemContainer" data-win-options="{draggable:true}" />
+            </div>
+            <div class="logo-div">
+                <img id="imgWin98" class="myDragContent" src="/images/app/win98.png" draggable="true" data-win-control="WinJS.UI.ItemContainer" data-win-options="{draggable:true}" />
+            </div>
+            <div class="logo-div">
+                <img id="imgWin8" class="myDragContent" src="/images/app/win8.png" draggable="true" data-win-control="WinJS.UI.ItemContainer" data-win-options="{draggable:true}" />
+            </div>
+        </div>
+        <div id="main">
+            <div id="mainContent">
+                <div id="timerContent">
+                    <div id="timer"><img src="/images/app/logow10.png" /></div>
+                </div>
+                <img id="imgCamino" src="/images/app/camino.png">
+
+                <div id="myDropTarget1" class="DnDItem">
+                    <div id="myPlusSign1" class="drop-ready">
+                        <canvas id="circle1"></canvas>
+                    </div>
+                </div>
+                <div id="myDropTarget2" class="DnDItem">
+                    <div id="myPlusSign2" class="drop-ready">
+                        <canvas id="circle2"></canvas>
+                    </div>
+                </div>
+                <div id="myDropTarget3" class="DnDItem">
+                    <div id="myPlusSign3" class="drop-ready">
+                        <canvas id="circle3"></canvas>
+                    </div>
+                </div>
+                <div id="myDropTarget4" class="DnDItem">
+                    <div id="myPlusSign4" class="drop-ready">
+                        <canvas id="circle4"></canvas>
+                    </div>
+                </div>
+                <div id="myDropTarget5" class="DnDItem">
+                    <div id="myPlusSign5" class="drop-ready">
+                        <canvas id="circle5"></canvas>
+                    </div>
+                </div>
+                <div id="myDropTarget6" class="DnDItem">
+                    <div id="myPlusSign6" class="drop-ready">
+                        <canvas id="circle6"></canvas>
+                    </div>
+                </div>
+                <div id="myDropTarget7" class="DnDItem">
+                    <div id="myPlusSign7" class="drop-ready">
+                        <canvas id="circle7"></canvas>
+                    </div>
+                </div>
+                <div id="myDropTarget8" class="DnDItem">
+                    <div id="myPlusSign8" class="drop-ready">
+                        <canvas id="circle8"></canvas>
+                    </div>
+                </div>
+                <!--
+                <canvas id="circle2"></canvas>
+                <canvas id="circle3"></canvas>
+                <canvas id="circle4"></canvas>
+                <canvas id="circle5"></canvas>
+                <canvas id="circle6"></canvas>
+                <canvas id="circle7"></canvas>
+                <canvas id="circle8"></canvas>
+                -->
+            </div>
+        </div>
+        <div id="right_side" class="sides">
+            <div class="logo-div">
+                <img id="imgWinXP" class="myDragContent" src="/images/app/winXp.png" draggable="true" data-win-control="WinJS.UI.ItemContainer" data-win-options="{draggable:true}" />
+            </div>
+            <div class="logo-div">
+                <img id="imgWin95" class="myDragContent" src="/images/app/win95.png" draggable="true" data-win-control="WinJS.UI.ItemContainer" data-win-options="{draggable:true}" />
+            </div>
+            <div class="logo-div" style="margin-top: 20%;">
+                <img id="imgWinME" class="myDragContent" src="/images/app/winMe.png" draggable="true" data-win-control="WinJS.UI.ItemContainer" data-win-options="{draggable:true}" />
+            </div>
+            <div class="logo-div">
+                <img id="imgWin31" class="myDragContent" src="/images/app/win3_1.png" draggable="true" data-win-control="WinJS.UI.ItemContainer" data-win-options="{draggable:true}" />
+            </div>
+        </div>
+    </div>
+</body>
+</html>

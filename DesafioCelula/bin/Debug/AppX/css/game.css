@@ -1,0 +1,109 @@
+﻿html {
+    overflow: auto;
+    -ms-scroll-translation:none;
+    height: 100%;
+}
+
+body {
+    
+    background-color: red;
+}
+
+#bodyInside {
+    height:100%;
+}
+/********************************************
+ *              BASIC LAYOUT                *   
+ ********************************************/
+.sides {
+    background-color: white;
+}
+
+#left_side {
+    width: 15%;
+    height: 100%;
+    float: left;
+    position: static;
+}
+
+#main {
+    width: 70%;
+    height: 100%;
+    float: left;
+    background-color: /*#FDFCFC*/ #ffd800;
+    position: static;
+}
+
+#mainContent {
+    height: 100%;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+}
+
+#right_side {
+    width: 15%;
+    height: 100%;
+    float: left;
+    position: static;
+}
+/********************************************
+ *              DRAGGED LOGOS               *   
+ ********************************************/
+.logo-div {
+    height: 20%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.myDragContent {
+    width: 100%;
+    margin: 35% 0%;
+}
+#imgCamino {
+    width: 85%;
+    height: 84%;
+    margin-top: 12%;
+    margin-left: 5%;
+   
+}
+#circle1, #circle2, #circle3, #circle4, #circle5, #circle6, #circle7, #circle8 {
+    position: fixed;
+    /*border:5px solid red;*/
+}
+
+#myDropTarget1,#myDropTarget2,#myDropTarget3,#myDropTarget4,
+#myDropTarget5,#myDropTarget6,#myDropTarget7,#myDropTarget8 {
+    position: fixed;    
+}
+
+.drop-ready #myPlusSign1,#myPlusSign2,#myPlusSign3,#myPlusSign4,
+#myPlusSign5,#myPlusSign6,#myPlusSign7,#myPlusSign8
+{
+    opacity: 1;
+}
+
+#myPlusSign1,#myPlusSign2,#myPlusSign3,#myPlusSign4,
+#myPlusSign5,#myPlusSign6,#myPlusSign7,#myPlusSign8
+{
+     font-size:50px;
+     font-weight:bolder;
+     color: blue;
+     opacity: 0;
+}
+
+#timerContent{
+    position: absolute;
+    background-image: url(../images/app/timeline.png);
+    background-position-y:center;
+    background-repeat: repeat-x;
+    width: 60%;
+    top: 2%;
+    left: 20%;    
+}
+#timer img{
+    position: relative;
+}
+
+.of_none {
+  -ms-overflow-style: none;
+}

@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Desafío Célula</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <link href="../css/endgame.css" rel="stylesheet" />
+
+</head>
+
+<body>
+    <div id="central" style="margin:20% 20% 0% 20%; text-align:center;"></div>
+    <div id="buttons">
+        <button id="btnback">Menú Principal</button>
+    </div>
+
+    <script>
+        var t = getUrlVars()["t"];
+        document.getElementById("central").innerHTML = "<h1>¡Bien hecho!</h1><h2>Lo hiciste en " + t + " segundos.</h2>";
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var btnback = document.getElementById('btnback');
+        btnback.addEventListener('click', function () {
+            window.location('../default.html');
+        }, false);
+    </script>
+    
+</body>
+</html>

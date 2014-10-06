@@ -1,0 +1,15 @@
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bin\Debug\ReverseMap\resources.pri
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bin\Debug\AppxManifest.xml
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bin\Debug\DesafioCelula.build.appxrecipe
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\priconfig.xml
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\priconfig.xml.intermediate
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\layout.resfiles
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\layout.resfiles.intermediate
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\resources.resfiles
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\resources.resfiles.intermediate
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\pri.resfiles
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\pri.resfiles.intermediate
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\qualifiers.txt
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\qualifiers.txt.intermediate
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,27 @@
+﻿body {
+    background-color: white;
+}
+#logo{
+    height: 60%;
+    background-color: #ffd800;
+}
+#logo img{
+    padding-left: 25%;
+    padding-top: 5%;
+    height: 65%;
+}
+#buttons {
+   text-align: center;
+    padding-top: 10%;
+}
+#buttons button {
+    font-size: 50px;
+    background-color: #ff6a00;
+    width: 30%;
+    height: 100px;
+}
+
+#buttons button:hover{
+    background-color: #1b32ce;
+    color: white;
+}
