@@ -255,7 +255,7 @@
                WinJS.Utilities.removeClass(dropTarget1, "drop-ready");
                var selected = eventObject.dataTransfer.getData("Text");
                console.log(selected);
-               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/win3_1.png?candidateIndex=0") {
+               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/mario1985.png?candidateIndex=0") {
                    var logo = document.getElementById("imgWin31");
                    var canvas1 = document.getElementById('circle1');
                    
@@ -308,7 +308,7 @@
                WinJS.Utilities.removeClass(dropTarget2, "drop-ready");
                var selected = eventObject.dataTransfer.getData("Text");
                console.log(selected);
-               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/win95.png?candidateIndex=0") {
+               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/mario1987.png?candidateIndex=0") {
                    var logo = document.getElementById("imgWin95");
                    var canvas2 = document.getElementById('circle2');
 
@@ -363,7 +363,7 @@
                WinJS.Utilities.removeClass(dropTarget3, "drop-ready");
                var selected = eventObject.dataTransfer.getData("Text");
                console.log(selected);
-               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/win98.png?candidateIndex=0") {
+               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/mario1990.png?candidateIndex=0") {
                    var logo = document.getElementById("imgWin98");
                    var canvas3 = document.getElementById('circle3');
 
@@ -419,7 +419,7 @@
                WinJS.Utilities.removeClass(dropTarget4, "drop-ready");
                var selected = eventObject.dataTransfer.getData("Text");
                console.log(selected);
-               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/winMe.png?candidateIndex=0") {
+               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/mario1991.png?candidateIndex=0") {
                    var logo = document.getElementById("imgWinME");
                    var canvas4 = document.getElementById('circle4');
 
@@ -474,7 +474,7 @@
                WinJS.Utilities.removeClass(dropTarget5, "drop-ready");
                var selected = eventObject.dataTransfer.getData("Text");
                console.log(selected);
-               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/winXp.png?candidateIndex=0") {
+               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/mario1996.png?candidateIndex=0") {
                    var logo = document.getElementById("imgWinXP");
                    var canvas5 = document.getElementById('circle5');
 
@@ -529,7 +529,7 @@
                WinJS.Utilities.removeClass(dropTarget6, "drop-ready");
                var selected = eventObject.dataTransfer.getData("Text");
                console.log(selected);
-               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/winVista.png?candidateIndex=0") {
+               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/mario2002.png?candidateIndex=0") {
                    var logo = document.getElementById("imgWinVista");
                    var canvas6 = document.getElementById('circle6');
 
@@ -584,7 +584,7 @@
                WinJS.Utilities.removeClass(dropTarget7, "drop-ready");
                var selected = eventObject.dataTransfer.getData("Text");
                console.log(selected);
-               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/win7.png?candidateIndex=0") {
+               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/mario2007.png?candidateIndex=0") {
                    var logo = document.getElementById("imgWin7");
                    var canvas7 = document.getElementById('circle7');
 
@@ -639,7 +639,7 @@
                WinJS.Utilities.removeClass(dropTarget8, "drop-ready");
                var selected = eventObject.dataTransfer.getData("Text");
                console.log(selected);
-               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/win8.png?candidateIndex=0") {
+               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/mario2012?candidateIndex=0") {
                    var logo = document.getElementById("imgWin8");
                    var canvas8 = document.getElementById('circle8');
 
