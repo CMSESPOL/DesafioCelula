@@ -23,7 +23,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2014-10-08T03:28:35.300</Modified>
+      <Modified>2014-10-08T03:47:28.545</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\css\endgame.css">
       <PackagePath>css\endgame.css</PackagePath>
