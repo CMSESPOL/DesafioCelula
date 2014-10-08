@@ -1,9 +1,13 @@
 ﻿body {
     background-color: white;
+    overflow:hidden
 }
 #logo{
     height: 60%;
-    background-color: #ffd800;
+    width: 100%;
+    background-color: #c8f6f0;    
+    background-repeat: no-repeat;
+    
 }
 #logo img{
     padding-left: 25%;

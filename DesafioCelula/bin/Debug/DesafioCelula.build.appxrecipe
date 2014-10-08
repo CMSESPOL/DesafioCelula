@@ -65,6 +65,9 @@
     <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\logow9.png">
       <PackagePath>images\app\logow9.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\paisaje.png">
+      <PackagePath>images\app\paisaje.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\logo.scale-100.png">
       <PackagePath>images\logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
