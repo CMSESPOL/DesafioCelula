@@ -13,3 +13,18 @@ c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula
 c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\qualifiers.txt.intermediate
 c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\ProjectArchitectures.txt
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bin\Debug\ReverseMap\resources.pri
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bin\Debug\AppxManifest.xml
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bin\Debug\DesafioCelula.build.appxrecipe
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bld\Debug\priconfig.xml
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bld\Debug\priconfig.xml.intermediate
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bld\Debug\layout.resfiles
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bld\Debug\layout.resfiles.intermediate
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bld\Debug\resources.resfiles
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bld\Debug\resources.resfiles.intermediate
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bld\Debug\pri.resfiles
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bld\Debug\pri.resfiles.intermediate
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bld\Debug\qualifiers.txt
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bld\Debug\ProjectArchitectures.txt
