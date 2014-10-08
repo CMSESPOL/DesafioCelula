@@ -17,13 +17,13 @@
     <AppXManifest Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-08T02:04:03.685</Modified>
+      <Modified>2014-10-08T03:23:06.238</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2014-10-08T03:01:58.162</Modified>
+      <Modified>2014-10-08T03:28:35.300</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\css\endgame.css">
       <PackagePath>css\endgame.css</PackagePath>
@@ -43,7 +43,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\logodesafio.png">
       <PackagePath>images\app\logodesafio.png</PackagePath>
-      <Modified>2014-10-08T01:13:02.628</Modified>
+      <Modified>2014-10-08T03:22:19.157</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario1985.png">
       <PackagePath>images\app\mario1985.png</PackagePath>
@@ -88,10 +88,6 @@
     <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\logow9.png">
       <PackagePath>images\app\logow9.png</PackagePath>
       <Modified>2014-10-08T00:02:37.481</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\paisaje.png">
-      <PackagePath>images\app\paisaje.png</PackagePath>
-      <Modified>2014-10-08T02:03:24.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\logo.scale-100.png">
       <PackagePath>images\logo.scale-100.png</PackagePath>
@@ -184,7 +180,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-10-08T02:04:03.604</Modified>
+      <Modified>2014-10-08T03:23:06.033</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
