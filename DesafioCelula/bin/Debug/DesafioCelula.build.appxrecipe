@@ -1,143 +1,141 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>HARRY-LAPTOP</Machine>
-    <WindowsUser>Harry</WindowsUser>
-    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <Machine>JACQUELINE-PC</Machine>
+    <WindowsUser>Liliana</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>accce408-1b67-495a-abed-f67ba805d81d</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\css\default.css">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\css\endgame.css">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\css\endgame.css">
       <PackagePath>css\endgame.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\css\game.css">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\css\game.css">
       <PackagePath>css\game.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\camino.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\camino.png">
       <PackagePath>images\app\camino.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\estrella.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\estrella.png">
       <PackagePath>images\app\estrella.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\logodesafio.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\logodesafio.png">
       <PackagePath>images\app\logodesafio.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario1985.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario1985.png">
       <PackagePath>images\app\mario1985.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario1987.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario1987.png">
       <PackagePath>images\app\mario1987.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario1990.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario1990.png">
       <PackagePath>images\app\mario1990.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario1991.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario1991.png">
       <PackagePath>images\app\mario1991.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario1996.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario1996.png">
       <PackagePath>images\app\mario1996.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario2002.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario2002.png">
       <PackagePath>images\app\mario2002.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario2007.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario2007.png">
       <PackagePath>images\app\mario2007.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario2012.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario2012.png">
       <PackagePath>images\app\mario2012.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\timeline.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\timeline.png">
       <PackagePath>images\app\timeline.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\logow10.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\logow10.png">
       <PackagePath>images\app\logow10.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\logow9.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\logow9.png">
       <PackagePath>images\app\logow9.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\logo.scale-100.png">
       <PackagePath>images\logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\logo.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\logo.scale-140.png">
       <PackagePath>images\logo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\logo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\logo.scale-180.png">
       <PackagePath>images\logo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\logo.scale-80.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\logo.scale-80.png">
       <PackagePath>images\logo.scale-80.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\smalllogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\smalllogo.scale-100.png">
       <PackagePath>images\smalllogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\splashscreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\splashscreen.scale-100.png">
       <PackagePath>images\splashscreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\Square310x310Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\Square310x310Logo.scale-100.png">
       <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-100.png">
       <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-140.png">
       <PackagePath>images\Square70x70Logo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-180.png">
       <PackagePath>images\Square70x70Logo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-80.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-80.png">
       <PackagePath>images\Square70x70Logo.scale-80.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\storelogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\storelogo.scale-100.png">
       <PackagePath>images\storelogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\Wide310x150Logo.scale-100.png">
       <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\js\default.js">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\js\default.js">
       <PackagePath>js\default.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\js\endgame.js">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\js\endgame.js">
       <PackagePath>js\endgame.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\js\game.js">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\js\game.js">
       <PackagePath>js\game.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\default.html">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\default.html">
       <PackagePath>default.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\pages\endgame.html">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\pages\endgame.html">
       <PackagePath>pages\endgame.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\pages\game.html">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\pages\game.html">
       <PackagePath>pages\game.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
