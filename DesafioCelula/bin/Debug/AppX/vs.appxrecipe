@@ -1,186 +1,189 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>JACQUELINE-PC</Machine>
-    <WindowsUser>Liliana</WindowsUser>
+    <Machine>HARRY-LAPTOP</Machine>
+    <WindowsUser>Harry</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>accce408-1b67-495a-abed-f67ba805d81d</PackageIdentityName>
-    <RegisteredManifestChecksum>7B4E5BA050F2DA83A6BACC2D113D9C819F44C949DBA5691A1C65B9DF857BDB62</RegisteredManifestChecksum>
+    <IntermediateOutputPath>C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>37B90D323B6409F7D23C929A5F4F769570867C13B344919A13C095E16820E754</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>accce408-1b67-495a-abed-f67ba805d81d_1.0.0.0_neutral__j7twsy7ktph3j</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>accce408-1b67-495a-abed-f67ba805d81d_j7twsy7ktph3j!App</RegisteredUserModeAppID>
     <RegisteredPackageID>accce408-1b67-495a-abed-f67ba805d81d</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=Harry</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:04:56.299</Modified>
+      <Modified>2014-10-09T03:48:07.521</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\css\default.css">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2014-10-09T03:04:55.164</Modified>
+      <Modified>2014-10-09T03:44:43.143</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\css\endgame.css">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\css\endgame.css">
       <PackagePath>css\endgame.css</PackagePath>
-      <Modified>2014-10-09T03:02:35.326</Modified>
+      <Modified>2014-10-09T03:44:43.144</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\css\game.css">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\css\game.css">
       <PackagePath>css\game.css</PackagePath>
-      <Modified>2014-10-09T03:05:40.967</Modified>
+      <Modified>2014-10-09T03:44:43.162</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\camino.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\camino.png">
       <PackagePath>images\app\camino.png</PackagePath>
-      <Modified>2014-10-09T03:02:35.348</Modified>
+      <Modified>2014-10-09T03:44:43.185</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\estrella.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\estrella.png">
       <PackagePath>images\app\estrella.png</PackagePath>
-      <Modified>2014-10-09T03:02:35.348</Modified>
+      <Modified>2014-10-09T03:44:43.186</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\logodesafio.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\logodesafio.png">
       <PackagePath>images\app\logodesafio.png</PackagePath>
-      <Modified>2014-10-09T03:02:35.351</Modified>
+      <Modified>2014-10-09T03:44:43.189</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario1985.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario1985.png">
       <PackagePath>images\app\mario1985.png</PackagePath>
-      <Modified>2014-10-09T03:02:35.354</Modified>
+      <Modified>2014-10-09T03:44:43.192</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario1987.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario1987.png">
       <PackagePath>images\app\mario1987.png</PackagePath>
-      <Modified>2014-10-09T03:02:35.355</Modified>
+      <Modified>2014-10-09T03:44:43.194</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario1990.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario1990.png">
       <PackagePath>images\app\mario1990.png</PackagePath>
-      <Modified>2014-10-09T03:02:35.355</Modified>
+      <Modified>2014-10-09T03:44:43.194</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario1991.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario1991.png">
       <PackagePath>images\app\mario1991.png</PackagePath>
-      <Modified>2014-10-09T03:02:35.356</Modified>
+      <Modified>2014-10-09T03:44:43.195</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario1996.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario1996.png">
       <PackagePath>images\app\mario1996.png</PackagePath>
-      <Modified>2014-10-09T03:02:35.357</Modified>
+      <Modified>2014-10-09T03:44:43.197</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario2002.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario2002.png">
       <PackagePath>images\app\mario2002.png</PackagePath>
-      <Modified>2014-10-09T03:02:35.358</Modified>
+      <Modified>2014-10-09T03:44:43.198</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario2007.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario2007.png">
       <PackagePath>images\app\mario2007.png</PackagePath>
-      <Modified>2014-10-09T03:02:35.360</Modified>
+      <Modified>2014-10-09T03:44:43.199</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\mario2012.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\mario2012.png">
       <PackagePath>images\app\mario2012.png</PackagePath>
-      <Modified>2014-10-09T03:02:35.361</Modified>
+      <Modified>2014-10-09T03:44:43.201</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\timeline.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\timeline.png">
       <PackagePath>images\app\timeline.png</PackagePath>
-      <Modified>2014-10-09T03:02:35.362</Modified>
+      <Modified>2014-10-09T03:44:43.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\logow10.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\logow10.png">
       <PackagePath>images\app\logow10.png</PackagePath>
-      <Modified>2014-10-09T03:02:35.352</Modified>
+      <Modified>2014-10-09T03:44:43.190</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\app\logow9.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\logow9.png">
       <PackagePath>images\app\logow9.png</PackagePath>
-      <Modified>2014-10-09T03:02:35.353</Modified>
+      <Modified>2014-10-09T03:44:43.191</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\logo.scale-100.png">
       <PackagePath>images\logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:02:35.363</Modified>
+      <Modified>2014-10-09T03:44:43.203</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\logo.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\logo.scale-140.png">
       <PackagePath>images\logo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:02:35.363</Modified>
+      <Modified>2014-10-09T03:44:43.204</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\logo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\logo.scale-180.png">
       <PackagePath>images\logo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:02:35.364</Modified>
+      <Modified>2014-10-09T03:44:43.205</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\logo.scale-80.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\logo.scale-80.png">
       <PackagePath>images\logo.scale-80.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:02:35.365</Modified>
+      <Modified>2014-10-09T03:44:43.206</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\smalllogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\smalllogo.scale-100.png">
       <PackagePath>images\smalllogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:02:35.366</Modified>
+      <Modified>2014-10-09T03:44:43.207</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\splashscreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\splashscreen.scale-100.png">
       <PackagePath>images\splashscreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:02:35.367</Modified>
+      <Modified>2014-10-09T03:44:43.210</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\Square310x310Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\Square310x310Logo.scale-100.png">
       <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:02:35.330</Modified>
+      <Modified>2014-10-09T03:44:43.166</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-100.png">
       <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:02:35.331</Modified>
+      <Modified>2014-10-09T03:44:43.167</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-140.png">
       <PackagePath>images\Square70x70Logo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:02:35.332</Modified>
+      <Modified>2014-10-09T03:44:43.169</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-180.png">
       <PackagePath>images\Square70x70Logo.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:02:35.333</Modified>
+      <Modified>2014-10-09T03:44:43.170</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-80.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\Square70x70Logo.scale-80.png">
       <PackagePath>images\Square70x70Logo.scale-80.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:02:35.334</Modified>
+      <Modified>2014-10-09T03:44:43.171</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\storelogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\storelogo.scale-100.png">
       <PackagePath>images\storelogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:02:35.367</Modified>
+      <Modified>2014-10-09T03:44:43.210</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\images\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\Wide310x150Logo.scale-100.png">
       <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:02:35.337</Modified>
+      <Modified>2014-10-09T03:44:43.174</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\js\default.js">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2014-10-09T03:02:35.368</Modified>
+      <Modified>2014-10-09T03:44:43.211</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\js\endgame.js">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\js\endgame.js">
       <PackagePath>js\endgame.js</PackagePath>
-      <Modified>2014-10-09T03:02:35.369</Modified>
+      <Modified>2014-10-09T03:44:43.212</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\js\game.js">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\js\game.js">
       <PackagePath>js\game.js</PackagePath>
-      <Modified>2014-10-09T03:02:35.370</Modified>
+      <Modified>2014-10-09T03:47:25.248</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\default.html">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2014-10-09T03:02:35.329</Modified>
+      <Modified>2014-10-09T03:44:43.164</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\pages\endgame.html">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\pages\endgame.html">
       <PackagePath>pages\endgame.html</PackagePath>
-      <Modified>2014-10-09T03:02:35.375</Modified>
+      <Modified>2014-10-09T03:44:43.220</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\pages\game.html">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\pages\game.html">
       <PackagePath>pages\game.html</PackagePath>
-      <Modified>2014-10-09T03:02:35.376</Modified>
+      <Modified>2014-10-09T03:44:43.221</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Liliana\Documents\Git\DesafioCelula\DesafioCelula\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-10-09T03:04:55.930</Modified>
+      <Modified>2014-10-09T03:48:07.229</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

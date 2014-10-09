@@ -256,12 +256,13 @@
                var selected = eventObject.dataTransfer.getData("Text");
                console.log(selected);
                if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/mario1985.png?candidateIndex=0") {
-                   var logo = document.getElementById("imgWin31");
-                   var canvas1 = document.getElementById('circle1');
-                   
+                   var logo = document.getElementById("imgWinVista");
+                   var canvas1 = document.getElementById('circle1');                   
 
-                   var nuLeft = Math.round(logo.getBoundingClientRect().left - (logo.getBoundingClientRect().right + canvas1.getBoundingClientRect().right + (logo.getBoundingClientRect().width / 2)));
+                   //var nuLeft = Math.round(logo.getBoundingClientRect().left - (logo.getBoundingClientRect().right + canvas1.getBoundingClientRect().right + (logo.getBoundingClientRect().width / 2)));
+                   var nuLeft = Math.round(logo.getBoundingClientRect().left + (logo.getBoundingClientRect().right + canvas1.getBoundingClientRect().right + (logo.getBoundingClientRect().width / 2)));
                    var nuTop = canvas1.getBoundingClientRect().top - logo.getBoundingClientRect().top + logo.getBoundingClientRect().height / 2;
+                   console.log(nuLeft + "-" + nuTop);
 
                    logo.style.position = "relative";
                    logo.style.left = nuLeft + "px";
@@ -309,11 +310,12 @@
                var selected = eventObject.dataTransfer.getData("Text");
                console.log(selected);
                if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/mario1987.png?candidateIndex=0") {
-                   var logo = document.getElementById("imgWin95");
+                   var logo = document.getElementById("imgWin7");
                    var canvas2 = document.getElementById('circle2');
 
                    var nuLeft = Math.round(logo.getBoundingClientRect().right - (logo.getBoundingClientRect().left + canvas2.getBoundingClientRect().right + (logo.getBoundingClientRect().width * 0)));
                    var nuTop = canvas2.getBoundingClientRect().top - logo.getBoundingClientRect().top - logo.getBoundingClientRect().height / 2;
+                   console.log(nuLeft + "-" + nuTop);
 
                    logo.style.position = "relative";
                    logo.style.left = nuLeft + "px";
@@ -530,7 +532,7 @@
                var selected = eventObject.dataTransfer.getData("Text");
                console.log(selected);
                if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/mario2002.png?candidateIndex=0") {
-                   var logo = document.getElementById("imgWinVista");
+                   var logo = document.getElementById("imgWin31");
                    var canvas6 = document.getElementById('circle6');
 
                    var nuLeft = Math.round(canvas6.getBoundingClientRect().left - logo.getBoundingClientRect().width / 2);
@@ -585,7 +587,7 @@
                var selected = eventObject.dataTransfer.getData("Text");
                console.log(selected);
                if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/mario2007.png?candidateIndex=0") {
-                   var logo = document.getElementById("imgWin7");
+                   var logo = document.getElementById("imgWin95");
                    var canvas7 = document.getElementById('circle7');
 
                    var nuLeft = Math.round(canvas7.getBoundingClientRect().left - logo.getBoundingClientRect().width / 2);
@@ -639,7 +641,7 @@
                WinJS.Utilities.removeClass(dropTarget8, "drop-ready");
                var selected = eventObject.dataTransfer.getData("Text");
                console.log(selected);
-               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/mario2012?candidateIndex=0") {
+               if (selected == "ms-appx://accce408-1b67-495a-abed-f67ba805d81d/images/app/mario2012.png?candidateIndex=0") {
                    var logo = document.getElementById("imgWin8");
                    var canvas8 = document.getElementById('circle8');
 
