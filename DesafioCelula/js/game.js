@@ -82,29 +82,29 @@
 
            var radius = 20;
 
-           var left1 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 2 + (canvas1.getBoundingClientRect().width / 2)); //LEFT
-           var top1 = Math.round(mainContent.getBoundingClientRect().height * (0.86) + (canvas1.getBoundingClientRect().height / 2)); //TOP
+           var left1 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 1.999 + (canvas1.getBoundingClientRect().width / 2)); //LEFT
+           var top1 = Math.round(mainContent.getBoundingClientRect().height * (0.756) + (canvas1.getBoundingClientRect().height / 2)); //TOP
            
-           var left2 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 3.35 + (canvas1.getBoundingClientRect().width / 2) ); //LEFT
-           var top2 = Math.round(mainContent.getBoundingClientRect().height * (0.775) + (canvas1.getBoundingClientRect().height / 2) ); //TOP
+           var left2 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 3.735 + (canvas1.getBoundingClientRect().width / 2) ); //LEFT
+           var top2 = Math.round(mainContent.getBoundingClientRect().height * (0.710) + (canvas1.getBoundingClientRect().height / 2) ); //TOP
 
-           var left3 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 4.88 + (canvas1.getBoundingClientRect().width / 2)); //LEFT
-           var top3 = Math.round(mainContent.getBoundingClientRect().height * (0.722) + (canvas1.getBoundingClientRect().height / 2)); //TOP
+           var left3 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 5.5 + (canvas1.getBoundingClientRect().width / 2)); //LEFT
+           var top3 = Math.round(mainContent.getBoundingClientRect().height * (0.66) + (canvas1.getBoundingClientRect().height / 2)); //TOP
            
-           var left4 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 4.5 + (canvas1.getBoundingClientRect().width / 2)); //LEFT
-           var top4 = Math.round(mainContent.getBoundingClientRect().height * (0.525) + (canvas1.getBoundingClientRect().height / 2)); //TOP
+           var left4 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 4.85 + (canvas1.getBoundingClientRect().width / 2)); //LEFT
+           var top4 = Math.round(mainContent.getBoundingClientRect().height * (0.445) + (canvas1.getBoundingClientRect().height / 2)); //TOP
 
-           var left5 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 3.05 + (canvas1.getBoundingClientRect().width / 2)); //LEFT
-           var top5 = Math.round(mainContent.getBoundingClientRect().height * (0.3855) + (canvas1.getBoundingClientRect().height / 2)); //TOP
+           var left5 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 3.0 + (canvas1.getBoundingClientRect().width / 2)); //LEFT
+           var top5 = Math.round(mainContent.getBoundingClientRect().height * (0.371) + (canvas1.getBoundingClientRect().height / 2)); //TOP
 
-           var left6 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 1.34 + (canvas1.getBoundingClientRect().width / 2)); //LEFT
-           var top6 = Math.round(mainContent.getBoundingClientRect().height * (0.51) + (canvas1.getBoundingClientRect().height / 2)); //TOP
+           var left6 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 1.390 + (canvas1.getBoundingClientRect().width / 2)); //LEFT
+           var top6 = Math.round(mainContent.getBoundingClientRect().height * (0.493) + (canvas1.getBoundingClientRect().height / 2)); //TOP
 
-           var left7 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 1.74 + (canvas1.getBoundingClientRect().width / 2)); //LEFT
-           var top7 = Math.round(mainContent.getBoundingClientRect().height * (0.268) + (canvas1.getBoundingClientRect().height / 2)); //TOP
+           var left7 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 1.375 + (canvas1.getBoundingClientRect().width / 2)); //LEFT
+           var top7 = Math.round(mainContent.getBoundingClientRect().height * (0.22) + (canvas1.getBoundingClientRect().height / 2)); //TOP
 
-           var left8 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 3.735 + (canvas1.getBoundingClientRect().width / 2)); //LEFT
-           var top8 = Math.round(mainContent.getBoundingClientRect().height * (0.155) + (canvas1.getBoundingClientRect().height / 2)); //TOP
+           var left8 = Math.round(ls.getBoundingClientRect().width + (mainContent.getBoundingClientRect().width / 7) * 3.7 + (canvas1.getBoundingClientRect().width / 2)); //LEFT
+           var top8 = Math.round(mainContent.getBoundingClientRect().height * (0.152) + (canvas1.getBoundingClientRect().height / 2)); //TOP
            
 
            canvas1.style.left = left1 + "px";
