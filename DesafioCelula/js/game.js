@@ -534,8 +534,8 @@
                    var logo = document.getElementById("imgWin31");
                    var canvas6 = document.getElementById('circle6');
 
-                   var nuLeft = Math.round(canvas6.getBoundingClientRect().left - logo.getBoundingClientRect().width / 2);
-                   var nuTop = Math.round(canvas6.getBoundingClientRect().top - logo.getBoundingClientRect().height / 2);
+                   var nuLeft = Math.round( - canvas6.getBoundingClientRect().left - (logo.getBoundingClientRect().width * 2.8));
+                   var nuTop = Math.round((canvas6.getBoundingClientRect().top * -0.2) - logo.getBoundingClientRect().height );
 
                    logo.style.position = "relative";
                    logo.style.left = nuLeft + "px";
@@ -589,8 +589,8 @@
                    var logo = document.getElementById("imgWin95");
                    var canvas7 = document.getElementById('circle7');
 
-                   var nuLeft = Math.round(canvas7.getBoundingClientRect().left - logo.getBoundingClientRect().width / 2);
-                   var nuTop = Math.round(canvas7.getBoundingClientRect().top - logo.getBoundingClientRect().height * (2.5));
+                   var nuLeft = Math.round(-canvas7.getBoundingClientRect().left - (logo.getBoundingClientRect().width * 3.0));
+                   var nuTop = Math.round(canvas7.getBoundingClientRect().top - logo.getBoundingClientRect().height * (2.2));
 
                    logo.style.position = "relative";
                    logo.style.left = nuLeft + "px";
@@ -645,7 +645,7 @@
                    var canvas8 = document.getElementById('circle8');
 
                    var nuLeft = Math.round(canvas8.getBoundingClientRect().left - logo.getBoundingClientRect().width / 2);
-                   var nuTop = Math.round(canvas8.getBoundingClientRect().top - logo.getBoundingClientRect().top);
+                   var nuTop = Math.round(canvas8.getBoundingClientRect().top - (logo.getBoundingClientRect().top * 1.1));
 
                    logo.style.position = "relative";
                    logo.style.left = nuLeft + "px";
