@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:build="http://schemas.microsoft.com/developer/appx/2012/build" IgnorableNamespaces="build">
   <Identity Name="accce408-1b67-495a-abed-f67ba805d81d" Version="1.0.0.0" Publisher="CN=CMSESPOL" />
   <Properties>
     <DisplayName>DesafioCelula</DisplayName>
@@ -15,23 +15,17 @@
   </Resources>
   <Applications>
     <Application Id="App" StartPage="default.html">
-      <m2:VisualElements DisplayName="Desafío Célula" 
-                         Description="Desafío Célula" 
-                         ForegroundText="light" 
-                         BackgroundColor="#464646" 
-                         Square150x150Logo="images\Logo.png" 
-                         Square30x30Logo="images\SmallLogo.png">
-        <m2:DefaultTile ShortName="Desafío Célula" 
-                        Square70x70Logo="images\Square70x70Logo.png" 
-                        Wide310x150Logo="images\Wide310x150Logo.png" 
-                        Square310x310Logo="images\Square310x310Logo.png">
+      <m2:VisualElements DisplayName="Desafío Célula" Description="Desafío Célula" ForegroundText="light" BackgroundColor="#464646" Square150x150Logo="images\Logo.png" Square30x30Logo="images\SmallLogo.png">
+        <m2:DefaultTile ShortName="Desafío Célula" Square70x70Logo="images\Square70x70Logo.png" Wide310x150Logo="images\Wide310x150Logo.png" Square310x310Logo="images\Square310x310Logo.png">
         </m2:DefaultTile>
-        <m2:SplashScreen Image="images\splashscreen.png" 
-                         BackgroundColor="#F7FAF8"  />
+        <m2:SplashScreen Image="images\splashscreen.png" BackgroundColor="#F7FAF8" />
       </m2:VisualElements>
     </Application>
   </Applications>
   <Capabilities>
     <Capability Name="internetClient" />
   </Capabilities>
+  <build:Metadata>
+    <build:Item Name="Blend" Version="12.0.50429.0" />
+  </build:Metadata>
 </Package>

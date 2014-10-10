@@ -1,16 +1,6 @@
-﻿html {
-    overflow: auto;
-    -ms-scroll-translation:none;
+﻿body {
     height: 100%;
-}
 
-body {
-    
-    background-color: red;
-}
-
-#bodyInside {
-    height:100%;
 }
 /********************************************
  *              BASIC LAYOUT                *   
@@ -23,8 +13,6 @@ body {
     width: 15%;
     height: 100%;
     float: left;
-    position: static;
-    overflow:hidden;
 }
 
 #main {
@@ -33,22 +21,18 @@ body {
     float: left;
     background-color: #c8f6f0;
     
-    position: static;
 }
 
 #mainContent {
     height: 100%;
     border-left: 4px solid black;
     border-right: 4px solid black;
-    overflow:hidden;
 }
 
 #right_side {
     width: 15%;
     height: 100%;
     float: left;
-    position: static;
-    overflow:hidden;
 }
 /********************************************
  *              DRAGGED LOGOS               *   
@@ -107,8 +91,4 @@ body {
 }
 #timer img{
     position: relative;
-}
-
-.of_none {
-  -ms-overflow-style: none;
 }

@@ -8,7 +8,7 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>accce408-1b67-495a-abed-f67ba805d81d</PackageIdentityName>
     <IntermediateOutputPath>C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bld\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>37B90D323B6409F7D23C929A5F4F769570867C13B344919A13C095E16820E754</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>0F12E68B60F2D14278CB7395CAF353CA00985ED451FCBDA900A191379301EB32</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>accce408-1b67-495a-abed-f67ba805d81d_1.0.0.0_neutral__j7twsy7ktph3j</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>accce408-1b67-495a-abed-f67ba805d81d_j7twsy7ktph3j!App</RegisteredUserModeAppID>
     <RegisteredPackageID>accce408-1b67-495a-abed-f67ba805d81d</RegisteredPackageID>
@@ -20,7 +20,7 @@
     <AppXManifest Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-10-09T03:48:07.521</Modified>
+      <Modified>2014-10-10T01:46:00.426</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -34,7 +34,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\css\game.css">
       <PackagePath>css\game.css</PackagePath>
-      <Modified>2014-10-09T03:44:43.162</Modified>
+      <Modified>2014-10-10T03:12:32.981</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\images\app\camino.png">
       <PackagePath>images\app\camino.png</PackagePath>
@@ -167,7 +167,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\js\game.js">
       <PackagePath>js\game.js</PackagePath>
-      <Modified>2014-10-09T03:47:25.248</Modified>
+      <Modified>2014-10-10T03:27:41.853</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\default.html">
       <PackagePath>default.html</PackagePath>
@@ -179,11 +179,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\pages\game.html">
       <PackagePath>pages\game.html</PackagePath>
-      <Modified>2014-10-09T03:44:43.221</Modified>
+      <Modified>2014-10-10T03:07:55.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Harry\documents\visual studio 2013\Projects\DesafioCelula\DesafioCelula\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-10-09T03:48:07.229</Modified>
+      <Modified>2014-10-10T01:45:59.826</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

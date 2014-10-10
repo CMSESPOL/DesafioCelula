@@ -260,8 +260,8 @@
                    var canvas1 = document.getElementById('circle1');                   
 
                    //var nuLeft = Math.round(logo.getBoundingClientRect().left - (logo.getBoundingClientRect().right + canvas1.getBoundingClientRect().right + (logo.getBoundingClientRect().width / 2)));
-                   var nuLeft = Math.round(logo.getBoundingClientRect().left + (logo.getBoundingClientRect().right + canvas1.getBoundingClientRect().right + (logo.getBoundingClientRect().width / 2)));
-                   var nuTop = canvas1.getBoundingClientRect().top - logo.getBoundingClientRect().top + logo.getBoundingClientRect().height / 2;
+                   var nuLeft = Math.round(logo.getBoundingClientRect().left + ((logo.getBoundingClientRect().right/3) + (canvas1.getBoundingClientRect().right / 2) + (logo.getBoundingClientRect().width / 2)));
+                   var nuTop = canvas1.getBoundingClientRect().top - logo.getBoundingClientRect().top * 2.8 + logo.getBoundingClientRect().height / 2;
                    console.log(nuLeft + "-" + nuTop);
 
                    logo.style.position = "relative";
@@ -279,7 +279,6 @@
                    context1.fillStyle = '#06BAF9';
                    context1.fill();
                }
-
            });
 
            var dropTarget2 = element.querySelector("#myDropTarget2");
@@ -318,7 +317,7 @@
                    console.log(nuLeft + "-" + nuTop);
 
                    logo.style.position = "relative";
-                   logo.style.left = nuLeft + "px";
+                   logo.style.left = -1 * nuLeft + "px";
                    logo.style.top = nuTop + "px";
                    var context2 = canvas2.getContext('2d');
                    context2.clearRect(0, 0, canvas2.width, canvas2.height);
@@ -425,7 +424,7 @@
                    var logo = document.getElementById("imgWinME");
                    var canvas4 = document.getElementById('circle4');
 
-                   var nuLeft = Math.round(logo.getBoundingClientRect().left - (logo.getBoundingClientRect().right + logo.getBoundingClientRect().width * (1.8)));
+                   var nuLeft = Math.round(logo.getBoundingClientRect().left - (logo.getBoundingClientRect().right + logo.getBoundingClientRect().width * (1.4)));
                    var nuTop = Math.round(logo.getBoundingClientRect().top - canvas4.getBoundingClientRect().top - logo.getBoundingClientRect().width);
 
                    logo.style.position = "relative";
