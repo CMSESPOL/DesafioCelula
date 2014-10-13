@@ -21,7 +21,12 @@
 
     <script>
         var t = getUrlVars()["t"];
-        document.getElementById("central").innerHTML = "<h1>¡Bien hecho!</h1><h2>Lo hiciste en " + t + " segundos.</h2>";
+
+        if(t!="Juego terminado")
+            document.getElementById("central").innerHTML = "<h1>¡Bien hecho!</h1><h2>Lo hiciste en " + t + " segundos.</h2>";
+        else
+            document.getElementById("central").innerHTML = "<h1>"+t+"</h1><h2>";
+
         function getUrlVars() {
             var vars = {};
             var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {

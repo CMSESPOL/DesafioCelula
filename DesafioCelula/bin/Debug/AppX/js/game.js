@@ -212,8 +212,10 @@
            function timedCount() {
                
                timer.style.left = counter + "%";
-               if (counter == 90)
+               if (counter == 90){
                    clearTimeout(t);
+                   window.location('../pages/endgame.html?t=' + "Juego terminado");
+               }
                else {
                    if (logosSucess == 8) {
                        var sidel = document.getElementById("left_side");
